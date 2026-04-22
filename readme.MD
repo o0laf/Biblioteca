@@ -25,10 +25,8 @@ Está pensado para simular un sistema real pero manteniendo la simplicidad, idea
 ├── docs/
 └── src/
 
-## Documentación
+## Gestión del proyecto
 
-Ver carpeta `/docs` para:
+El tablero de trabajo del sprint se encuentra disponible en Trello:
 
-- Sprint
-- Escenarios
-- Planificación
+🔗 [Ver tablero de Trello](https://trello.com/invite/b/69e915aaf31618fa652461f7/ATTI1df0607b9aab48337be55a6489543aa9D794C653/biblioteca-sprint-1)
