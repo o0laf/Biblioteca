@@ -1,7 +1,9 @@
 
 # 📚 Sistema de Biblioteca
 
-Aplicación web simple para gestionar libros.
+Este proyecto permite administrar libros mediante una interfaz web básica.
+
+Está pensado para simular un sistema real pero manteniendo la simplicidad, ideal para comprender el flujo de desarrollo de software.
 
 ## Funcionalidades
 
